@@ -1,12 +1,3 @@
-/*    FINAL SMESTER PROJECT
-   	Name:		 ALI SHERAZ.
-	Father Name: SHAHZAD ALI.
-	Roll Number: BCSM-F17-107.
-	Program:	 BS(COMPUTER SCEINCE).
-	Section:	 1B.
-	Smester:     1st.
-	Instructor:  SIR FARRUKH EHSAN.
-	Department:  CS & IT */
 #include <iostream>
 #include<iomanip>
 using namespace std;
